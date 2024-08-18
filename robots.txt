@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dugescru.github.io/sitemap.html.gz
+Sitemap: https://dugescru.github.io/app/sitemap.html.gz
+Sitemap: https://dugescru.github.io/assets/sitemap.html.gz
+Sitemap: https://dugescru.github.io/css/sitemap.html.gz
+Sitemap: https://dugescru.github.io/includes/sitemap.html.gz
+Sitemap: https://dugescru.github.io/item/sitemap.html.gz
+Sitemap: https://dugescru.github.io/src/sitemap.html.gz
